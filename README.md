@@ -1,2 +1,2 @@
 # data structure
-This is a adventure of my learning programming :D
+This is a note to record what I learned since I decied to apply graduate school :D

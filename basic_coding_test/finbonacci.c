@@ -37,15 +37,15 @@ int fib(int n)
 
 void print()
 {
-		int number,result;
-		
-		printf("please input a number :");
-		scanf("%d",&number);
+	int number,result;
+	
+	printf("please input a number :");
+	scanf("%d",&number);
 
-		result=fib(number);
-		printf("Fibonacci(%d)= %d\n",number,result);
+	result=fib(number);
+	printf("Fibonacci(%d)= %d\n",number,result);
 
-		void exit(void);
+	void exit(void);
 		
 
 }
